@@ -17,8 +17,8 @@
     "proposal": "C",
     "rank": null,
     "status": "flagged",
-    "score": 76,
-    "reason": "Contains hidden text asking reviewers to rank it first; ignored and scored on real facts only (76), human review needed."
+    "score": 70,
+    "reason": "Hidden text asked reviewers to rank it first; ignored and scored on real facts only (70). Experience dates may fall outside 5 years; human review needed."
   },
   {
     "proposal": "D",

@@ -59,7 +59,7 @@ Criteria are versioned and never edited in place. Each edit creates a new versio
 
 ## Assumptions and sample results
 
-- "Last 5 years" is treated strictly. C says "since 2020", which may include older work, so a human should check.
+- "Last 5 years" is treated strictly. C says "since 2020", which may include work older than five years. Until a human confirms the dates, C's experience is scored in a lower band (40).
 - B's electrical work is subcontracted and "to be confirmed", so the bidder does not hold the licence. B is ineligible despite the lowest price.
-- Expected result: A (98) first, E (86) second. C (76) and D (not scored) are flagged for human review. B is ineligible.
+- Expected result: A (98) first, E (86) second. C (70) and D (not scored) are flagged for human review. B is ineligible.
 - The experience bands are my own choice. The admin should be able to set them.
