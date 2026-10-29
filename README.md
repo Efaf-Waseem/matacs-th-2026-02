@@ -14,4 +14,4 @@
 
 ## How I used AI
 
-I used Claude to help me plan the design, draft the prompts and write-up, and generate the first version of the flow diagram. I checked the scoring maths myself and edited the text to match my understanding. [WRITE ONE REAL PLACE WHERE YOU DISAGREED WITH OR CORRECTED THE AI, AND WHY.]
+I used Claude to help me plan the design, draft the prompts and write-up, and generate the first version of the flow diagram. I checked the scoring maths myself and edited the text to match my understanding. Claude gave C a 60 for experience even though C says it has worked 'since 2020', which may be older than the 5-year window in the criteria. I disagreed and lowered C's experience score to 40, which changed C's total from 76 to 70, and noted that a human should confirm the dates.
